@@ -1,28 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/LongestPathDAG.java" description="return weight;" line="106" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7faa7983-1016-4bdf-b888-3ce8bfb636db" name="Default Changelist" comment="Some more problems on DS and Algorithms">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/AQuestions/DeleteNodeWithoutHead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/AQuestions/MaxHeightOfTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/BinaryTree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/FindMaxSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/LeftRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Pivot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Queue/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Queue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Queue/QueueLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Queue/QueueUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Queue/QueueUsingStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Queue/StackUsingQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/kadane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/matrix/SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/matrix/search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic Programming/EggDrop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dynamic Programming/BinomialCoeff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dynamic Programming/BinomialCoeff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/DetectCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/DetectCycleUndirected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/LongestPathDAG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/SnakeAndLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/TopologicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,13 +30,106 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/BinaryTree/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="1300">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/DetectCycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/DetectCycleUndirected.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1063">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/LongestPathDAG.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/SnakeAndLadder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/TopologicalSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <folding>
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/UnionFind.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="691">
+              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+              <folding>
+                <element signature="e#395#396#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,10 +171,22 @@
         <option value="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/BFS.java" />
         <option value="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/Graph.java" />
         <option value="$PROJECT_DIR$/src/DS &amp; Algorithms/BinaryTree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/UnionFind.java" />
+        <option value="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/DetectCycle.java" />
+        <option value="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/DetectCycleUndirected.java" />
+        <option value="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/TopologicalSort.java" />
+        <option value="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/LongestPathDAG.java" />
+        <option value="$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/SnakeAndLadder.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="25" />
     <option name="width" value="1575" />
@@ -106,8 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,15 +207,12 @@
               <item name="Data-Structures-and-Algorithms-in-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Data-Structures-and-Algorithms-in-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DS &amp; Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,22 +236,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTree">
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryTree.BinaryTree" />
-      <module name="Data-Structures-and-Algorithms-in-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinaryTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.Graph" />
+  <component name="RunManager" selected="Application.SnakeAndLadder">
+    <configuration name="DetectCycleUndirected" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.DetectCycleUndirected" />
       <module name="Data-Structures-and-Algorithms-in-Java" />
       <extension name="coverage">
         <pattern>
@@ -174,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.LRUCache" />
+    <configuration name="LongestPathDAG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.LongestPathDAG" />
       <module name="Data-Structures-and-Algorithms-in-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Queue.*" />
+          <option name="PATTERN" value="Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.QueueUsingRecursion" />
+    <configuration name="SnakeAndLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.SnakeAndLadder" />
       <module name="Data-Structures-and-Algorithms-in-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Queue.*" />
+          <option name="PATTERN" value="Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +276,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackUsingQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.StackUsingQueues" />
+    <configuration name="TopologicalSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.TopologicalSort" />
       <module name="Data-Structures-and-Algorithms-in-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Queue.*" />
+          <option name="PATTERN" value="Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnionFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.UnionFind" />
+      <module name="Data-Structures-and-Algorithms-in-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinaryTree" />
-        <item itemvalue="Application.Graph" />
-        <item itemvalue="Application.StackUsingQueues" />
-        <item itemvalue="Application.LRUCache" />
-        <item itemvalue="Application.QueueUsingRecursion" />
+        <item itemvalue="Application.SnakeAndLadder" />
+        <item itemvalue="Application.LongestPathDAG" />
+        <item itemvalue="Application.TopologicalSort" />
+        <item itemvalue="Application.DetectCycleUndirected" />
+        <item itemvalue="Application.UnionFind" />
       </list>
     </recent_temporary>
   </component>
@@ -237,10 +326,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23624161" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23959732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -249,8 +337,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31625184" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31625184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -262,15 +350,47 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.3295302" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Some more problems on DS and Algorithms" />
     <option name="LAST_COMMIT_MESSAGE" value="Some more problems on DS and Algorithms" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/LongestPathDAG.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/SnakeAndLadder.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>dist[v] &lt; dist[u] + node.getWeight()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dist[u] &lt; dist[v] + node.getWeight()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Dynamic Programming/EggDrop.java">
@@ -434,17 +554,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/Graph.java">
+    <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/BinaryTree/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="1300">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/BinaryTree/BinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/UnionFind.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="691">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/tools/Java7/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/TopologicalSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/DetectCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/DetectCycleUndirected.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1063">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/LongestPathDAG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DS &amp; Algorithms/Graph/SnakeAndLadder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
