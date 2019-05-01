@@ -158,6 +158,28 @@ public class BinaryTree {
         return root;
     }
 
+    class Height {
+        int h;
+    }
+
+    public int diameter(Node root, Height height) {
+
+        Height lh = new Height();
+        Height rh = new Height();
+
+        if (root == null) {
+            height.h = 0;
+            return 0;
+        }
+
+        int ldiameter = diameter(root.left, lh);
+        int rdiameter = diameter(root.right, rh);
+
+        height.h = Math.max(lh.h, rh.h) + 1;
+
+        return Math.max(lh.h + rh.h + 1, Math.max(ldiameter, rdiameter));
+    }
+
 
     public static void inorder(Node root) {
         if (root == null)
